@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App> should render 1`] = `
+preact-render-spy (1 nodes)
+-------
+<div>
+  Hello 
+  <undefined></undefined>
+  !
+</div>
+
+`;
